@@ -2,7 +2,12 @@ body {
     background-color: #ecf9f2; 
 }
 h1 {
-    color: #ff99ff; 
+    color: #339933; 
+    text-align: center; 
+}
+
+h3 {
+    color: #339933; 
 }
 
 table, th, td {   
